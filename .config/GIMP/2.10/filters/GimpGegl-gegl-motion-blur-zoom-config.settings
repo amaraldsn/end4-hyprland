@@ -1,0 +1,54 @@
+# settings
+
+(GimpGegl-gegl-motion-blur-zoom-config "2024-11-04 14:37:24"
+    (time 1730741844)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.02))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-11-02 17:33:09"
+    (time 1730579589)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.029000000000000001))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-11-02 17:32:41"
+    (time 1730579561)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.014))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-11-02 17:32:16"
+    (time 1730579536)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.033000000000000002))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-11-02 17:30:17"
+    (time 1730579417)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.019))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-09-16 16:41:31"
+    (time 1726515691)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.17699999999999999))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-09-16 10:14:40"
+    (time 1726492480)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.017999999999999999))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-09-14 13:02:38"
+    (time 1726329758)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.20899999999999999))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-09-14 12:59:47"
+    (time 1726329587)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.17100000000000001))
+(GimpGegl-gegl-motion-blur-zoom-config "2024-09-14 12:57:06"
+    (time 1726329426)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.128))
+
+# end of settings

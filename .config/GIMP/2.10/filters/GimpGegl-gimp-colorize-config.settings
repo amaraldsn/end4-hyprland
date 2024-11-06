@@ -1,0 +1,64 @@
+# settings
+
+(GimpGegl-gimp-colorize-config "2024-08-13 12:31:16"
+    (time 1723563076)
+    (hue 0.75816993464052285)
+    (saturation 1)
+    (lightness 0)
+    (color (color-rgb 0.5490196078431373 0 1)))
+(GimpGegl-gimp-colorize-config "2024-06-18 11:39:56"
+    (time 1718721596)
+    (hue 0.5)
+    (saturation 1)
+    (lightness -1)
+    (color (color-rgb 0 0 0)))
+(GimpGegl-gimp-colorize-config "2024-05-21 20:26:14"
+    (time 1716333974)
+    (hue 0.5)
+    (saturation 0.5)
+    (lightness 0)
+    (color (color-rgb 0.25 0.75 0.75)))
+(GimpGegl-gimp-colorize-config "2024-04-06 20:46:20"
+    (time 1712447180)
+    (hue 0.58920187236468868)
+    (saturation 0.89121339517482967)
+    (lightness 0.062745101749897003)
+    (color (color-rgb 0.11372549086809158 0.50196081399917603 0.94901961088180542)))
+(GimpGegl-gimp-colorize-config "2024-04-06 19:27:09"
+    (time 1712442429)
+    (hue 0.75925925925925952)
+    (saturation 0.079646017699114974)
+    (lightness 0.55686274509803901)
+    (color (color-rgb 0.7803921568627451 0.76078431372549016 0.79607843137254897)))
+(GimpGegl-gimp-colorize-config "2024-04-04 10:15:54"
+    (time 1712236554)
+    (hue 0.5)
+    (saturation 0.74269005847953207)
+    (lightness -1)
+    (color (color-rgb 0 0 0)))
+(GimpGegl-gimp-colorize-config "2024-04-01 14:13:18"
+    (time 1711991598)
+    (hue 0.5)
+    (saturation 0.92258064516129035)
+    (lightness -1)
+    (color (color-rgb 0 0 0)))
+(GimpGegl-gimp-colorize-config "2024-04-01 13:51:50"
+    (time 1711990310)
+    (hue 0.5)
+    (saturation 0.7325581395348838)
+    (lightness -1)
+    (color (color-rgb 0 0 0)))
+(GimpGegl-gimp-colorize-config "2024-03-27 22:05:37"
+    (time 1711587937)
+    (hue 0.55555555555555547)
+    (saturation 0.80357142857142849)
+    (lightness -0.1215686274509804)
+    (color (color-rgb 0.086274509803921567 0.55686274509803924 0.792156862745098)))
+(GimpGegl-gimp-colorize-config "2024-03-27 15:54:43"
+    (time 1711565683)
+    (hue 0.44256120527306969)
+    (saturation 0)
+    (lightness -0.820754716981132)
+    (color (color-rgb 0.089622641509433998 0.089622641509433998 0.089622641509433998)))
+
+# end of settings

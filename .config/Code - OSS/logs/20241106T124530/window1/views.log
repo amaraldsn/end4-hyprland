@@ -1,0 +1,13 @@
+2024-11-06 12:45:32.686 [info] Added views:outline in workbench.view.explorer
+2024-11-06 12:45:32.686 [info] Added views:workbench.view.search in workbench.view.search
+2024-11-06 12:45:32.686 [info] Added views:workbench.scm in workbench.view.scm
+2024-11-06 12:45:32.686 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-11-06 12:45:32.686 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-11-06 12:45:32.686 [info] Added views:terminal in terminal
+2024-11-06 12:45:32.686 [info] Added views:timeline in workbench.view.explorer
+2024-11-06 12:45:32.686 [info] Added views:workbench.explorer.emptyView in workbench.view.explorer
+2024-11-06 12:45:33.175 [info] Added views:workbench.debug.variablesView,workbench.debug.watchExpressionsView,workbench.debug.callStackView,workbench.debug.breakPointsView in workbench.view.debug
+2024-11-06 12:45:33.525 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-11-06 12:45:33.946 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-11-06 12:45:33.949 [info] Removed views:workbench.debug.breakPointsView,workbench.debug.callStackView,workbench.debug.watchExpressionsView,workbench.debug.variablesView from workbench.view.debug
+2024-11-06 12:45:33.951 [info] Added views:workbench.debug.welcome in workbench.view.debug

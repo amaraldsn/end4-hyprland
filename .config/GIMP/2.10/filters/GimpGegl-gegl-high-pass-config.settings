@@ -1,0 +1,44 @@
+# settings
+
+(GimpGegl-gegl-high-pass-config "2024-10-02 20:15:48"
+    (time 1727910948)
+    (std-dev 4)
+    (contrast 1.5620000000000001))
+(GimpGegl-gegl-high-pass-config "2024-10-02 19:44:37"
+    (time 1727909077)
+    (std-dev 4)
+    (contrast 0.88800000000000001))
+(GimpGegl-gegl-high-pass-config "2024-10-01 16:47:04"
+    (time 1727812024)
+    (std-dev 8)
+    (contrast 1.0880000000000001))
+(GimpGegl-gegl-high-pass-config "2024-10-01 16:46:45"
+    (time 1727812005)
+    (std-dev 5)
+    (contrast 0.621))
+(GimpGegl-gegl-high-pass-config "2024-09-30 10:42:03"
+    (time 1727703723)
+    (std-dev 4)
+    (contrast 1.6619999999999999))
+(GimpGegl-gegl-high-pass-config "2024-09-30 10:41:28"
+    (time 1727703688)
+    (std-dev 4)
+    (contrast 0.60699999999999998))
+(GimpGegl-gegl-high-pass-config "2024-09-29 23:17:11"
+    (time 1727662631)
+    (std-dev 4)
+    (contrast 0.64800000000000002))
+(GimpGegl-gegl-high-pass-config "2024-09-26 23:18:32"
+    (time 1727403512)
+    (std-dev 4)
+    (contrast 1.0039999999999996))
+(GimpGegl-gegl-high-pass-config "2024-09-26 23:17:59"
+    (time 1727403479)
+    (std-dev 2)
+    (contrast 1))
+(GimpGegl-gegl-high-pass-config "2024-09-26 23:14:17"
+    (time 1727403257)
+    (std-dev 2)
+    (contrast 0.874))
+
+# end of settings

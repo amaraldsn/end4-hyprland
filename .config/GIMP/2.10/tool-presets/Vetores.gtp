@@ -1,0 +1,22 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-path")
+(name "Vetores")
+(tool-options "GimpVectorOptions"
+    (tool "gimp-vector-tool")
+    (brush "2. Hardness 025")
+    (dynamics "Basic Dynamics")
+    (pattern "Pine")
+    (gradient "Frente para transparente")
+    (palette "paletaamaraldsn.gpl"))
+(use-fg-bg no)
+(use-opacity-paint-mode yes)
+(use-brush yes)
+(use-dynamics yes)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern yes)
+(use-palette no)
+(use-font no)
+
+# end of GIMP tool preset file

@@ -1,0 +1,17 @@
+# settings
+
+(GimpGegl-gegl-bump-map-config "2024-08-13 15:29:24"
+    (time 1723573764)
+    (type linear)
+    (compensate yes)
+    (invert no)
+    (tiled yes)
+    (azimuth 164.81)
+    (elevation 68.409999999999997)
+    (depth 2)
+    (offset-x 0)
+    (offset-y 0)
+    (waterlevel 0)
+    (ambient 0.055))
+
+# end of settings

@@ -1,0 +1,16 @@
+# GIMP gimp-pencil-tool options
+
+(foreground (color-rgb 0.35055971719552226 0.77981651376146788 0.37738826698089378))
+(background (color-rgb 0 0 0))
+(brush "2. Hardness 075")
+(dynamics "Basic Simple")
+(gradient "Personalizado")
+(palette "paletaamaraldsn.gpl")
+(brush-size 408)
+(brush-hardness 0.089999999999999997)
+(brush-force 0.20000000000000001)
+(gradient-reverse yes)
+(use-smoothing yes)
+(smoothing-quality 16)
+
+# end of gimp-pencil-tool options

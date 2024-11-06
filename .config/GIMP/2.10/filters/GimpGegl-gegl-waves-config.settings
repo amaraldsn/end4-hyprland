@@ -1,0 +1,14 @@
+# settings
+
+(GimpGegl-gegl-waves-config "2024-06-16 13:27:08"
+    (time 1718555228)
+    (x 0.5)
+    (y 0.5)
+    (amplitude 25)
+    (period 73.200000000000003)
+    (phi -1)
+    (aspect 3.024)
+    (sampler-type cubic)
+    (clamp no))
+
+# end of settings

@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.35055971719552226 0.77981651376146788 0.37738826698089378))
+(palette "paletaamaraldsn.gpl")
+(font "Neptune")
+(font-size 24)
+(line-spacing -1)
+
+# end of gimp-text-tool options

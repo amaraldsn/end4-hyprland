@@ -1,0 +1,44 @@
+# settings
+
+(GimpGegl-gegl-color-temperature-config "2024-10-29 17:25:03"
+    (time 1730233503)
+    (original-temperature 5043)
+    (intended-temperature 8246.8999999999996))
+(GimpGegl-gegl-color-temperature-config "2024-10-29 17:20:26"
+    (time 1730233226)
+    (original-temperature 5653.3000000000002)
+    (intended-temperature 6477.1000000000004))
+(GimpGegl-gegl-color-temperature-config "2024-10-29 17:19:41"
+    (time 1730233181)
+    (original-temperature 5470.1999999999998)
+    (intended-temperature 6187.1999999999998))
+(GimpGegl-gegl-color-temperature-config "2024-10-29 17:18:59"
+    (time 1730233139)
+    (original-temperature 6049.8999999999996)
+    (intended-temperature 6828))
+(GimpGegl-gegl-color-temperature-config "2024-10-23 18:02:12"
+    (time 1729717332)
+    (original-temperature 8170.6000000000004)
+    (intended-temperature 5958.3999999999996))
+(GimpGegl-gegl-color-temperature-config "2024-10-18 11:04:29"
+    (time 1729260269)
+    (original-temperature 8994.5)
+    (intended-temperature 3868.1999999999998))
+(GimpGegl-gegl-color-temperature-config "2024-10-17 16:15:35"
+    (time 1729192535)
+    (original-temperature 7743.3999999999996)
+    (intended-temperature 5699))
+(GimpGegl-gegl-color-temperature-config "2024-10-17 16:15:12"
+    (time 1729192512)
+    (original-temperature 7743.3999999999996)
+    (intended-temperature 5378.6000000000004))
+(GimpGegl-gegl-color-temperature-config "2024-10-17 15:14:32"
+    (time 1729188872)
+    (original-temperature 5958.3999999999996)
+    (intended-temperature 7423))
+(GimpGegl-gegl-color-temperature-config "2024-10-02 11:48:57"
+    (time 1727880537)
+    (original-temperature 7514.6000000000004)
+    (intended-temperature 5454.8999999999996))
+
+# end of settings

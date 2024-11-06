@@ -1,0 +1,6 @@
+# GIMP gimp-measure-tool options
+
+(interpolation linear)
+(use-info-window yes)
+
+# end of gimp-measure-tool options

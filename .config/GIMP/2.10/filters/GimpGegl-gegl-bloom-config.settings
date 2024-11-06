@@ -1,0 +1,32 @@
+# settings
+
+(GimpGegl-gegl-bloom-config "2024-06-15 22:51:23"
+    (time 1718502683)
+    (threshold 50)
+    (softness 25)
+    (radius 9.0700000000000003)
+    (strength 152.34)
+    (limit-exposure no))
+(GimpGegl-gegl-bloom-config "2024-06-13 11:40:31"
+    (time 1718289631)
+    (threshold 50)
+    (softness 25)
+    (radius 10)
+    (strength 92.400000000000006)
+    (limit-exposure no))
+(GimpGegl-gegl-bloom-config "2024-06-13 11:36:39"
+    (time 1718289399)
+    (threshold 50)
+    (softness 25)
+    (radius 10)
+    (strength 108.19)
+    (limit-exposure no))
+(GimpGegl-gegl-bloom-config "2020-06-12 14:14:49"
+    (time 1591982089)
+    (threshold 50)
+    (softness 11.470000000000001)
+    (radius 10)
+    (strength 50)
+    (limit-exposure no))
+
+# end of settings

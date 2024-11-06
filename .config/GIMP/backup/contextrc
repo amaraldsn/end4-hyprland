@@ -1,0 +1,14 @@
+# GIMP user context
+
+(tool "gimp-gegl-tool")
+(paint-info "gimp-paintbrush")
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "FG para BG (RGB)")
+(palette "História de Cor")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

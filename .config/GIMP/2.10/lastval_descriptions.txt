@@ -1,0 +1,250 @@
+# Descriptionfile LAST_VALUES buffer structure (type;offset;size;iterflag,name)
+#
+# this file is rewritten each time when a procedure registers
+# the LAST_VALUES structure. (typical at 1.st gimp startup
+# or after installation of new plug-ins)
+#
+"plug_in_filter_macro" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;1500;1;
+ ARRAY;0;1500;0;filtermacro_scriptname
+ gchar;0;1;0;filtermacro_scriptname
+STRUCT_END;0;1500;1;
+END;
+"plug-in-layer-set-alpha-by-colormask" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;208;1;
+ drawable;0;4;0;colormaskDrawable
+ gdouble;8;8;0;loColorThreshold
+ gdouble;16;8;0;hiColorThreshold
+ gdouble;24;8;0;colorSensitivity
+ gdouble;32;8;1;lowerOpacity
+ gdouble;40;8;1;upperOpacity
+ gdouble;48;8;1;triggerAlpha
+ gdouble;56;8;1;isleRadius
+ gdouble;64;8;1;isleAreaPixelLimit
+ gdouble;72;8;1;featherRadius
+ gdouble;80;8;1;edgeColorThreshold
+ gdouble;88;8;1;thresholdColorArea
+ gdouble;96;8;1;pixelDiagonal
+ gdouble;104;8;1;pixelAreaLimit
+ gint32;112;4;0;connectByCorner
+ gint32;116;4;0;keepLayerMask
+ gint32;120;4;0;keepWorklayer
+ gint32;124;4;0;enableKeyColorThreshold
+ STRUCT_BEGIN;0;32;1;keycolor
+  gdouble;128;8;1;r
+  gdouble;136;8;1;g
+  gdouble;144;8;1;b
+  gdouble;152;8;1;a
+ STRUCT_END;0;32;1;keycolor
+ gdouble;160;8;1;loKeyColorThreshold
+ gdouble;168;8;1;keyColorSensitivity
+ gint;200;4;0;algorithm
+STRUCT_END;0;208;1;
+END;
+"plug-in-firepattern" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;432;1;
+ gdouble;0;8;0;scalex
+ gdouble;8;8;0;scaley
+ gint32;16;4;0;detail
+ gboolean;20;4;0;useTrapezoidShape
+ gdouble;24;8;1;flameHeight
+ gdouble;32;8;1;flameWidthBase
+ gdouble;40;8;1;flameWidthTop
+ gdouble;48;8;1;flameBorder
+ gdouble;56;8;1;flameOffestX
+ gint32;64;4;0;blendNum
+ gdouble;72;8;1;stretchHeight
+ gdouble;80;8;1;shiftPhaseY
+ gboolean;88;4;0;createImage
+ gint32;92;4;0;nframes
+ gboolean;96;4;0;createFireLayer
+ gboolean;100;4;0;useTransparentBg
+ gdouble;104;8;1;fireOpacity
+ gint32;112;4;0;seed1
+ drawable;116;4;1;cloudLayer1
+ drawable;120;4;1;fireShapeLayer
+ gboolean;124;4;0;forceShapeLayer
+ gboolean;128;4;0;reverseGradient
+ ARRAY;0;300;0;gradientNameArray
+ gchar;132;1;0;gradientNameChar
+STRUCT_END;0;432;1;
+END;
+"plug-in-wr-set-layermode" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;4;1;
+ gint32;0;4;0;mode
+STRUCT_END;0;4;1;
+END;
+"plug_in_name2layer" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;524;1;
+ gint;0;4;0;mode
+ gint;4;4;1;fontsize
+ ARRAY;0;500;0;fontname
+ gchar;8;1;0;fontname
+ gint;508;4;1;posx
+ gint;512;4;1;posy
+ gint;516;4;0;antialias
+ gint;520;4;0;create_new_layer
+STRUCT_END;0;524;1;
+END;
+"plug_in_wr_layer_rotate_any" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;8;1;
+ gdouble;0;8;1;angle in degree
+STRUCT_END;0;8;1;
+END;
+"plug_in_wr_layer_rotate_90" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;8;1;
+ gdouble;0;8;0;dummy
+STRUCT_END;0;8;1;
+END;
+"plug_in_wr_layer_rotate_180" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;8;1;
+ gdouble;0;8;0;dummy
+STRUCT_END;0;8;1;
+END;
+"plug_in_wr_layer_rotate_270" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;8;1;
+ gdouble;0;8;0;dummy
+STRUCT_END;0;8;1;
+END;
+"plug_in_wr_layer_flip_horizontal" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;8;1;
+ gdouble;0;8;0;dummy
+STRUCT_END;0;8;1;
+END;
+"plug_in_wr_layer_flip_vetrical" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;8;1;
+ gdouble;0;8;0;dummy
+STRUCT_END;0;8;1;
+END;
+"gap-detail-tracking" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;1656;1;
+ gint32;0;4;0;refShapeRadius
+ gint32;4;4;0;targetMoveRadius
+ gdouble;8;8;0;loacteColodiffThreshold
+ gboolean;20;4;0;coordsRelToFrame1
+ gint32;24;4;1;offsX
+ gint32;28;4;1;offsY
+ gdouble;32;8;1;offsRotate
+ gboolean;40;4;0;enableScaling
+ gboolean;44;4;0;bgLayerIsReference
+ gboolean;48;4;0;removeMidlayers
+ ARRAY;0;1600;0;moveLogFileArray
+ gchar;56;1;0;moveLogFileChar
+STRUCT_END;0;1656;1;
+END;
+"gap-detail-tracking-xml-aligner" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;1624;1;
+ gint32;0;4;1;framePhase
+ gdouble;8;8;0;transformPrecision
+ gdouble;16;8;0;transformPrecisionThreshold
+ ARRAY;0;1600;0;moveLogFileArray
+ gchar;24;1;0;moveLogFileChar
+STRUCT_END;0;1624;1;
+END;
+"plug-in-move-path-singleframe" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;1048;1;
+ gint32;0;4;0;drawable_id
+ gint32;4;4;1;frame_phase
+ gint32;8;4;0;total_frames
+ gchar;24;1;0;xml_paramfile
+STRUCT_END;0;1048;1;
+END;
+"plug_in_bluebox" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;144;1;
+ STRUCT_BEGIN;0;32;1;keycolor
+  gdouble;0;8;1;r
+  gdouble;8;8;1;g
+  gdouble;16;8;1;b
+  gdouble;24;8;1;a
+ STRUCT_END;0;32;1;keycolor
+ ENUM;32;4;0;thres_mode
+ gdouble;40;8;1;thres_r
+ gdouble;48;8;1;thres_g
+ gdouble;56;8;1;thres_b
+ gdouble;64;8;1;thres_h
+ gdouble;72;8;1;thres_s
+ gdouble;80;8;1;thres_v
+ gdouble;88;8;1;thres
+ gdouble;96;8;1;tolerance
+ gdouble;104;8;1;grow
+ gint;112;4;1;feather_edges
+ gdouble;120;8;1;feather_radius
+ gdouble;128;8;1;source_alpha
+ gdouble;136;8;1;target_alpha
+STRUCT_END;0;144;1;
+END;
+"plug-in-wr-desaturate" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;4;1;
+ gint32;0;4;0;desaturate_mode
+STRUCT_END;0;4;1;
+END;
+"plug-in-wr-set-opacity" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;16;1;
+ gdouble;0;8;1;opacity
+ gint32;8;4;0;mode
+STRUCT_END;0;16;1;
+END;
+"plug-in-edge-dosog" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;64;1;
+ gdouble;0;8;1;blurRadius1X
+ gdouble;8;8;1;blurRadius1Y
+ gdouble;16;8;1;blurRadius2X
+ gdouble;24;8;1;blurRadius2Y
+ gint32;32;4;1;shiftLeft
+ gint32;36;4;1;shiftRight
+ gint32;40;4;1;shiftUp
+ gint32;44;4;1;shiftDown
+ gboolean;48;4;0;autoLevels
+ gboolean;52;4;0;desaturate
+ gboolean;56;4;0;invert
+ gboolean;60;4;0;createEdgeAsNewLayer
+STRUCT_END;0;64;1;
+END;
+"plug-in-waterpattern" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;96;1;
+ gdouble;0;8;0;scalex
+ gdouble;8;8;0;scaley
+ gint32;16;4;0;blendNum
+ gdouble;24;8;1;shiftPhaseX
+ gdouble;32;8;1;shiftPhaseY
+ gboolean;40;4;0;useHighlights
+ gdouble;48;8;1;highlightOpacity
+ gboolean;56;4;0;useDisplaceMap
+ gdouble;64;8;1;displaceStrength
+ gboolean;72;4;0;createImage
+ gint32;76;4;0;nframes
+ gint32;80;4;0;seed1
+ gint32;84;4;0;seed2
+ drawable;88;4;1;cloudLayer1
+ drawable;92;4;1;cloudLayer2
+STRUCT_END;0;96;1;
+END;
+"plug-in-wr-resynth" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;1620;1;
+ gint32;0;4;1;corpus_border_radius
+ gint32;4;4;0;directionParam
+ gint32;8;4;0;orderParam
+ drawable;12;4;1;alt_selection
+ gint32;16;4;1;seed
+ ARRAY;0;1600;0;svgFileNameArray
+ gchar;20;1;0;svgFilenameNameChar
+STRUCT_END;0;1620;1;
+END;
+"gap-opacity-exposure" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;24;1;
+ gdouble;0;8;1;targetLum
+ gboolean;8;4;0;useRefLayerLum
+ gboolean;12;4;0;useRefLayerMsk
+ drawable;16;4;0;refLayerId
+STRUCT_END;0;24;1;
+END;
+"gap-blend-fill" #- added or changed by GIMP on 2024-09-09 20:30:08
+STRUCT_BEGIN;0;1616;1;
+ gboolean;0;4;0;horizontalBlendFlag
+ gboolean;4;4;0;verticalBlendFlag
+ drawable;8;4;1;altSelection
+ gint32;12;4;1;borderRadius
+ ARRAY;0;1600;0;svgFileNameArray
+ gchar;16;1;0;svgFilenameNameChar
+STRUCT_END;0;1616;1;
+END;

@@ -1,0 +1,31 @@
+# settings
+
+(GimpGegl-gegl-supernova-config "2024-06-15 22:50:51"
+    (time 1718502651)
+    (center-x 0.77400000000000002)
+    (center-y 0.36899999999999999)
+    (radius 54)
+    (spokes-count 97)
+    (random-hue 73)
+    (color (color-rgba 0 0 1 1))
+    (seed 0))
+(GimpGegl-gegl-supernova-config "2024-06-13 11:40:06"
+    (time 1718289606)
+    (center-x 0.19620370370370371)
+    (center-y 0.53259259259259262)
+    (radius 25)
+    (spokes-count 25)
+    (random-hue 138)
+    (color (color-rgba 0 0 1 1))
+    (seed 0))
+(GimpGegl-gegl-supernova-config "2024-06-13 11:36:17"
+    (time 1718289377)
+    (center-x 0.5)
+    (center-y 0.5)
+    (radius 20)
+    (spokes-count 1024)
+    (random-hue 97)
+    (color (color-rgba 0 0 1 1))
+    (seed 0))
+
+# end of settings

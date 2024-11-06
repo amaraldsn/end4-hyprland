@@ -1,0 +1,11 @@
+# GIMP gimp-crop-tool options
+
+(aspect-denominator 1080)
+(aspect-numerator 1920)
+(desired-fixed-size-height 0)
+(desired-fixed-size-width 0)
+(foreground (color-rgb 0.35055971719552226 0.77981651376146788 0.37738826698089378))
+(background (color-rgb 0 0 0))
+(pattern "Nops")
+
+# end of gimp-crop-tool options

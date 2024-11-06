@@ -1,0 +1,17 @@
+# Image map plug-in resource file
+
+(default-map-type csim)
+(prompt-for-area-info yes)
+(require-default-url no)
+(show-area-handle yes)
+(keep-circles-round yes)
+(show-url-tip no)
+(use-doublesized no)
+(undo-levels 4)
+(mru-size 0)
+(normal-fg-color 0 65535 0)
+(normal-bg-color 0 0 65535)
+(selected-fg-color 65535 0 0)
+(selected-bg-color 0 0 65535)
+(interactive-fg-color 65535 0 65535)
+(interactive-bg-color 65535 65535 0)

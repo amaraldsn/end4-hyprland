@@ -1,0 +1,10 @@
+# settings
+
+(GimpGegl-gegl-edge-sobel-config "2024-09-12 22:00:01"
+    (time 1726189201)
+    (gimp-mode screen)
+    (horizontal yes)
+    (vertical yes)
+    (keep-sign yes))
+
+# end of settings

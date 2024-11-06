@@ -1,0 +1,24 @@
+pkgname=illogical-impulse-basic
+pkgver=1.0
+pkgrel=1
+pkgdesc='Illogical Impulse Basic Dependencies'
+arch=(any)
+license=(None)
+depends=(
+	axel
+	bc
+	coreutils
+	cliphist
+	cmake
+	curl
+	fuzzel
+	rsync
+	wget
+	ripgrep
+	jq
+	npm
+	meson
+	typescript
+	gjs
+	xdg-user-dirs
+)

@@ -1,0 +1,9 @@
+[Default Applications]
+image/jpeg=swappy.desktop
+application/x-shellscript=geany.desktop
+image/png=swappy.desktop
+
+[Added Associations]
+image/jpeg=swappy.desktop;
+application/x-shellscript=geany.desktop;
+image/png=swappy.desktop;
